@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import "bootstrap/dist/css/bootstrap.css";
+//import "bootstrap/dist/css/bootstrap.css";
+import "bootswatch/spacelab/bootstrap.css";
 import { Navbar, NavItem, Nav, Grid, Row, Col } from "react-bootstrap";
 
 const PLACES = [
